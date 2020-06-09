@@ -1,5 +1,6 @@
 def new_hash
   hash = {}
+  #hash = not neaded for the example 
 end
 
 def my_hash
